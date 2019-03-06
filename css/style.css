@@ -1,0 +1,17 @@
+#Titulo{
+				font-family:fantasy;
+				font-weight:bold;
+				color:black;
+}
+body{
+	  font-family:monospace;
+	  color:gray;
+	  text-align:justify;
+	 /* background:#1AE0EE;*/
+}
+.quote{
+	  color:black;
+	  font-family:cursive;
+	  font-size:20px;
+	  text-align:center;
+}
